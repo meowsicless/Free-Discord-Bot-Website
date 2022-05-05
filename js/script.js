@@ -1,8 +1,4 @@
-console.log("make by Vins 2106 - source code available on github (Vins2106)");
 
-setInterval(() => {
-	console.log("make by Vins 2106 - source code available on github (Vins2106)");
-}, 10000)
 
 let nt = document.getElementById("toggler");
 let nb = document.getElementById("navs");
